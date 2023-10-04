@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\bin\Debug\siem.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\bin\Debug\siem.exe
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\bin\Debug\siem.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.exe
+c:\users\administrator\documents\visual studio 2013\Projects\siem\siem\obj\Debug\siem.pdb
+C:\Users\Owner\Desktop\siem\siem\bin\Debug\siem.exe.config
+C:\Users\Owner\Desktop\siem\siem\obj\Debug\siem.exe
+C:\Users\Owner\Desktop\siem\siem\obj\Debug\siem.pdb
